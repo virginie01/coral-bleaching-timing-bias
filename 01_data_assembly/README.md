@@ -14,6 +14,7 @@ Starting from the global coral bleaching database, the workflow:
 
 ## Workflow
 
+```
 Raw bleaching database
         ↓
 01_filter_exact_dates.ipynb
@@ -36,6 +37,7 @@ df_pre.csv
 df_pre_screening.csv
 df_post.csv
 df_post_screening.csv
+```
 
 ## Notebooks
 
