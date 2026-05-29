@@ -1,5 +1,7 @@
 # Coral Bleaching Timing Bias
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20116631.svg)](https://doi.org/10.5281/zenodo.20116631)
+
 ## Overview
 
 This project investigates survey timing bias in global coral bleaching observations.
