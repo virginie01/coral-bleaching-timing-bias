@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite the archived software release using the metadata below. Once the associated manuscript is published, please also cite the journal article."
+
+title: "coral-bleaching-timing-bias: Version 1.0.0 — Initial reproducible workflow release"
+
+type: software
+
+authors:
+  - family-names: "Bornarel"
+    given-names: "Virginie"
+    orcid: "https://orcid.org/0000-0002-2047-7872"
+
+version: "1.0.0"
+
+doi: "10.5281/zenodo.20116631"
+
+repository-code: "https://github.com/virginie01/coral-bleaching-timing-bias"
+
+license: MIT
