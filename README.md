@@ -1,7 +1,5 @@
 # Coral Bleaching Timing Bias
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20116631.svg)](https://doi.org/10.5281/zenodo.20116631)
-
 ## Overview
 
 This project investigates survey timing bias in global coral bleaching observations.
@@ -207,6 +205,41 @@ Bleaching reports are screened using:
 - multiple rule-based flagging criteria.
 
 ---
+
+# Citation
+
+If you use this repository or any part of its workflow in academic research, please cite the archived software release corresponding to the version used in your work.
+
+**Current archived release**
+
+Bornarel, V. (2026). *coral-bleaching-timing-bias: Version 1.0.0 — Initial reproducible workflow release* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20116631
+
+This repository accompanies a manuscript currently under peer review at *PLOS ONE*. Once the manuscript is published, please cite both:
+
+- the published journal article; and
+- the specific software release used in your analyses.
+
+If you use only a particular dataset or a future standalone data release, please cite the corresponding dataset DOI instead.
+
+---
+
+# Collaboration
+
+I welcome discussions and potential collaborations involving methodological developments, substantial extensions of this workflow, or integration with new large-scale datasets.
+
+If this repository plays a central role in a planned research project or forms the basis for substantial methodological developments, I would be pleased to discuss opportunities for collaboration.
+
+Please note that use of this repository under the MIT License does not imply scientific endorsement of derived work. Users remain responsible for validating and interpreting their own analyses.
+
+---
+
+# Repository status
+
+This repository accompanies a manuscript currently under peer review at *PLOS ONE*.
+
+The archived Version 1.0.0 release represents the complete computational workflow used for the submitted manuscript and serves as the reference version for reproducibility.
+
+Development of this repository will continue during peer review. Future releases may include improvements to documentation, bug fixes, additional functionality, and revisions arising from the review process while preserving the archived reference release.
 
 # Author
 
